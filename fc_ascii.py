@@ -20,5 +20,5 @@ while True:
         os.system('cls' if os.name == 'nt' else 'clear')
         print(f.read())
 
-    cv2.imshow('Eye Controlled Mouse', frame)
-    cv2.waitKey(1)
+    # cv2.imshow('Eye Controlled Mouse', frame)
+    # cv2.waitKey(1)
